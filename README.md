@@ -26,3 +26,37 @@ Google **colab** is a free cloud service (jupyter as service) with GPU and TPU s
   <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/colab/01_Neural%20Networks%20and%20Deep%20Learning/week02.ipynb">
     <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td></table>
+
+### Shallow Neural Networks (Week03)
+
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/drive/1CPOwfd8iFYJP6VnaNu2LzaSkQrzcdwUR">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/colab/01_Neural%20Networks%20and%20Deep%20Learning/week03.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
+
+### Deep Neural Networks - Building (Week04)
+
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/drive/1CPOwfd8iFYJP6VnaNu2LzaSkQrzcdwUR">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/colab/01_Neural%20Networks%20and%20Deep%20Learning/week03.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
+
+
+### Deep Neural Networks - Application (Week04)
+
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/drive/1Rfb4AHRcAT-hCo5RYoMxHu4hRprp3QCC">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/colab/01_Neural%20Networks%20and%20Deep%20Learning/week04_02.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
