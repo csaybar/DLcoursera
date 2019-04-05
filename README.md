@@ -63,7 +63,7 @@ Google **colab** is a free cloud service (jupyter as service) with GPU and TPU s
 
 ## Course 02: Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 
-### Practical aspects of Deep Learning (Week05)
+### Practical aspects of Deep Learning (Week01)
 
 #### Gradient Checking
 
@@ -98,7 +98,7 @@ Google **colab** is a free cloud service (jupyter as service) with GPU and TPU s
     <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td></table>
 
-### Optimization algorithms (Week06)
+### Optimization algorithms (Week02)
 
 <table align="left"><td>
   <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week6/Optimization%2Bmethods.ipynb">
@@ -109,7 +109,7 @@ Google **colab** is a free cloud service (jupyter as service) with GPU and TPU s
     <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td></table>
 
-### Hyperparameter tuning, Batch Normalization and Programming Frameworks (Week07)
+### Hyperparameter tuning, Batch Normalization and Programming Frameworks (Week03)
 
 <table align="left"><td>
   <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week7/Tensorflow%2BTutorial.ipynb">
@@ -119,3 +119,54 @@ Google **colab** is a free cloud service (jupyter as service) with GPU and TPU s
   <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week7/Tensorflow%2BTutorial.ipynb">
     <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td></table>
+
+## Course 03: Structuring Machine Learning Projects
+
+## Course 04: Convolutional Neural Networks
+
+### Foundations of Convolutional Neural Networks (Week01)
+
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week7/Tensorflow%2BTutorial.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week7/Tensorflow%2BTutorial.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
+
+### Foundations of Convolutional Neural Networks (Week01)
+
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Convolutional%20Neural%20Networks/week01/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Convolutional%20Neural%20Networks/week01/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
+
+### Deep convolutional models: case studies (Week02)
+
+#### Keras Tutorial - The Happy House (not graded)
+
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Convolutional%20Neural%20Networks/week02/KerasTutorial/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Convolutional%20Neural%20Networks/week02/KerasTutorial/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
+
+#### Residual Networks
+
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Convolutional%20Neural%20Networks/week02/KerasTutorial/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Convolutional%20Neural%20Networks/week02/KerasTutorial/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
+
