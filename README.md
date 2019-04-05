@@ -41,11 +41,11 @@ Google **colab** is a free cloud service (jupyter as service) with GPU and TPU s
 ### Deep Neural Networks - Building (Week04)
 
 <table align="left"><td>
-  <a target="_blank"  href="https://colab.research.google.com/drive/1ALw1ug4zTg8Nek9jblfQu0LtZpkJcMoU">
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/week4/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb">
     <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
   </a>
 </td><td>
-  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/colab/01_Neural%20Networks%20and%20Deep%20Learning/week04_01.ipynb">
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/week4/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb">
     <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td></table>
 
@@ -53,10 +53,10 @@ Google **colab** is a free cloud service (jupyter as service) with GPU and TPU s
 ### Deep Neural Networks - Application (Week04)
 
 <table align="left"><td>
-  <a target="_blank"  href="https://colab.research.google.com/drive/1Rfb4AHRcAT-hCo5RYoMxHu4hRprp3QCC">
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/week4/Deep%20Neural%20Network%20Application%20Image%20Classification/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb">
     <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
   </a>
 </td><td>
-  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/colab/01_Neural%20Networks%20and%20Deep%20Learning/week04_02.ipynb">
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/week4/Deep%20Neural%20Network%20Application%20Image%20Classification/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb">
     <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td></table>
