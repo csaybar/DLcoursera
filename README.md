@@ -60,3 +60,62 @@ Google **colab** is a free cloud service (jupyter as service) with GPU and TPU s
   <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/week4/Deep%20Neural%20Network%20Application%20Image%20Classification/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb">
     <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td></table>
+
+## Course 02: Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
+
+### Practical aspects of Deep Learning (Week05)
+
+#### Gradient Checking
+
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week5/Gradient%20Checking/Gradient%2BChecking%2Bv1.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week5/Gradient%20Checking/Gradient%2BChecking%2Bv1.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
+
+#### Initialization
+
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week5/Initialization/Initialization.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week5/Initialization/Initialization.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
+
+#### Regularization
+
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week5/Regularization/Regularization%2B-%2Bv2.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week5/Regularization/Regularization%2B-%2Bv2.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
+
+### Optimization algorithms (Week06)
+
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/week3/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/week3/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
+
+### Hyperparameter tuning, Batch Normalization and Programming Frameworks (Week07)
+
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/week2/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/week2/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
