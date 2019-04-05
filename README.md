@@ -170,3 +170,36 @@ Google **colab** is a free cloud service (jupyter as service) with GPU and TPU s
     <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td></table>
 
+### Object detection (Week03)
+
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Convolutional%20Neural%20Networks/week03/Car%20detection%20for%20Autonomous%20Driving/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Convolutional%20Neural%20Networks/week03/Car%20detection%20for%20Autonomous%20Driving/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
+
+
+### Face recognition & Neural style transfer (Week04)
+
+#### Art generation with Neural Style Transfer
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Convolutional%20Neural%20Networks/week04/Neural%20Style%20Transfer/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv3.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Convolutional%20Neural%20Networks/week04/Neural%20Style%20Transfer/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv3.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
+
+#### Face Recognition for the Happy House
+<table align="left"><td>
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Convolutional%20Neural%20Networks/week04/Face%20Recognition/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
+  </a>
+</td><td>
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Convolutional%20Neural%20Networks/week04/Face%20Recognition/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb">
+    <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td></table>
