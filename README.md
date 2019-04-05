@@ -101,11 +101,11 @@ Google **colab** is a free cloud service (jupyter as service) with GPU and TPU s
 ### Optimization algorithms (Week06)
 
 <table align="left"><td>
-  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/week3/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb">
+  <a target="_blank"  href="https://colab.research.google.com/github/csaybar/DLcoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week6/Optimization%2Bmethods.ipynb">
     <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab
   </a>
 </td><td>
-  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/week3/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb">
+  <a target="_blank"  href="https://github.com/csaybar/DLcoursera/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week6/Optimization%2Bmethods.ipynb">
     <img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td></table>
 
